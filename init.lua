@@ -1,1 +1,1 @@
-require("almond")
+require("config.lazy")
